@@ -18,7 +18,7 @@ Through a series of SQL queries, this project demonstrates essential data analys
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - SQL
 - Google BigQuery
