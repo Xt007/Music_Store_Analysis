@@ -22,7 +22,7 @@ Through a series of SQL queries, this project demonstrates essential data analys
 
 - SQL
 - Google BigQuery
-- GitHub
+
 
 ---
 
